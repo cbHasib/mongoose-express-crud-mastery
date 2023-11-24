@@ -76,7 +76,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/mongoose-express-crud-mastery.git
+git clone https://github.com/cbHasib/mongoose-express-crud-mastery.git
 ```
 
 2. Install NPM packages
@@ -140,7 +140,6 @@ This project is licensed under the ISC License.
 - [ESLint](https://eslint.org/)
 
 
-Please replace `yourusername` and `your_mongodb_uri` with your actual GitHub username and MongoDB URI respectively.
 
 
 
